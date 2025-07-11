@@ -1,5 +1,5 @@
 <h1>Hi, I'm Anitra! <br/><a 
-href=" https://www.linkedin.com/in/anitra-harper/"> Data Analyst</a>, <a
+href="https://www.linkedin.com/in/anitra-harper/"> Data Analyst</a>, <a
 href=>Financial Analyst</a>, <a
 href=>Business Data/Tool Analyst</a></h1>
 
@@ -31,7 +31,6 @@ Techniques]("https://github.com/aeharper2001/aeharper2001/SQL_Techniques.git)
   - [Demonstrated competency in beginner to intermediate SQL skills] (https://www.virtualbadge.io/certificate-validator?credential=d3ac9615-46a1-4c83-9a14-43882173155a
 
 <h2>📱Connect with me:</h2>
-<a href=https://www.linkedin.com/in/anitra-harper/target="_blank">
+<a href="https://www.linkedin.com/in/anitra-harper/" target="_blank">
   <img align="left" alt="Anitra Harper" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
