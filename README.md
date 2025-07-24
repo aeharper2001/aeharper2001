@@ -6,7 +6,7 @@ href=>Business Data/Tool Analyst</a></h1>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQLTechniques](https://github.com/aeharper2001/SQL_Techniques/edit/main/README.md)
+  - [Demonstrating SQL Techniques](https://github.com/aeharper2001/SQL_Techniques/edit/main/README.md)
 
 <h2>📚Certifications:</h2>
 
