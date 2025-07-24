@@ -21,7 +21,7 @@ href=>Business Data/Tool Analyst</a></h1>
   - [Prompt Engineering] https://www.virtualbadge.io/certificate-validator?credential=38c5ad30-e589-4535-9d27-70207c82cfb7
 
 - <b>📜Microsoft Power BI Analytics Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills] (https://www.virtualbadge.io/certificate-validator?credential=d3ac9615-46a1-4c83-9a14-43882173155a
+  - [Demonstrated competency in beginner to intermediate SQL skills] ((https://www.virtualbadge.io/certificate-validator?credential=d0b31fd3-9d03-4a96-b10e-e0c00fc90ca1)
 
 - <b>📜Microsoft Excel Pivot Tables Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills] (https://www.virtualbadge.io/certificate-validator?credential=590792c4-7cc8-485f-84c4-6a57fed3dcb5
