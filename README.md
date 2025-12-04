@@ -7,6 +7,9 @@ href="https://www.linkedin.com/in/anitra-harper/">Data Analyst</a>
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/aeharper2001/SQL_Techniques)
 
+- <b>💾Advance SQL Project 2</b>
+  - [Demonstrating Advanced SQL Techniques](https://github.com/aeharper2001/SQL_Techniques)
+
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
