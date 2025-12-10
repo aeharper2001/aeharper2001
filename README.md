@@ -9,7 +9,7 @@ href="https://www.linkedin.com/in/anitra-harper/">Scrum Master Analyst</a>
   - [Demonstrating SQL Techniques](https://github.com/aeharper2001/SQL_Techniques)
 
 - <b>💾Advance SQL Project 2</b>
-  - [Demonstrating Advanced SQL Techniques](https://github.com/aeharper2001/SQL_Techniques)
+  - [Demonstrating Advanced SQL Techniques](https://github.com/aeharper2001/Advanced_SQL_Techniques)
 
 <h2>📚Certifications:</h2>
 
